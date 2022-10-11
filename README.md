@@ -9,11 +9,14 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![Theater_Outcomes_vs_Launch]([Theater_Outcomes_vs_Launch.png](https://github.com/irisyidi/kickstarter-analysis-/blob/main/Theater_Outcomes_vs_Launch.png)/to/Theater_Outcomes_vs_Launch.png)
+
+![Outcomes_vs_Goals](https://github.com/irisyidi/kickstarter-analysis-/blob/main/Theater_Outcomes_vs_Launch.png)
 
 #### The number of successful theater proejcts remarkablely exceeds the number of both canceled and failed theater proejcts from January to December. The number of successful theater proejects reach the highest point in May after an apparent increase with a slight decrease from Febuary to March. From May to December, the successful theater projects present a declining trend from arount 111 to 37 even though there is a temporary increase from 72 to 59 from August to September. The number of failed theater projects overally volatile within the range of 30 to 55. The failed theater projects temporarily present a stable trend from May to August after a increase from 33 to 52 from January to May. As for the canceled theater project, it presents a stable trend within the range of 0 to 8. 
 
 ### Analysis of Outcomes Based on Goals
+
+![Theater_Outcomes_vs_Launch](https://github.com/irisyidi/kickstarter-analysis-/blob/main/Outcomes_vs_Goals.png)
 
 #### For the goals set from 0 to 19999, the percentage of successful plays projects surpasses the percentage of failed plays proejcts. But the difference of the percentages of successful projects and failed projects narrowed gradually. For the goals set at 15000 to 19999, the percentages of successful and faield plays projects are equal to 50%. For the goals within the range of 19999 to 34999, the percentage of failed plays projects exceeds the percentage of the success plays projects eventhough the percentage of the faield plays projects presents a decreasing trend with the goals increasing from 25000 to 34999. After keeping constant with the goals range from 35000 to 44999, the percentage of the failed plays projects rise significantly from 33% to 100%, remarketably exceeding the percentage of the successful plays projects for the goals set more than 44999. 
 
