@@ -33,7 +33,7 @@
 
 - What can you conclude about the Outcomes based on Goals?
 
-#### There is hihger percentage of success if the play projects with the goals of 0-19999 and 35000-44999 are selected. 
+#### There is higher percentage of success if the play projects with the goals of 0-19999 and 35000-44999 are selected. 
 
 - What are some limitations of this dataset?
 
