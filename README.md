@@ -9,6 +9,7 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+![Theater_Outcomes_vs_Launch]([Theater_Outcomes_vs_Launch.png](https://github.com/irisyidi/kickstarter-analysis-/blob/main/Theater_Outcomes_vs_Launch.png)/to/Theater_Outcomes_vs_Launch.png)
 
 #### The number of successful theater proejcts remarkablely exceeds the number of both canceled and failed theater proejcts from January to December. The number of successful theater proejects reach the highest point in May after an apparent increase with a slight decrease from Febuary to March. From May to December, the successful theater projects present a declining trend from arount 111 to 37 even though there is a temporary increase from 72 to 59 from August to September. The number of failed theater projects overally volatile within the range of 30 to 55. The failed theater projects temporarily present a stable trend from May to August after a increase from 33 to 52 from January to May. As for the canceled theater project, it presents a stable trend within the range of 0 to 8. 
 
